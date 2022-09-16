@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box !important;
+   /* background-color: blue; */
+}
+
+img{
+    opacity: 0.8;
+}
+
+
+
+#fstbtn{
+    
+    background-color: darkgreen;
+    color:white;
+    border:none;
+}
+#secbtn{
+    background-color: crimson;
+    color:white;
+    border:none;
+}
+
+.card-text{
+    font-size: 0.8rem;
+}
+
+#global-btn{
+    background-color: rgb(92, 166, 240);
+    color:rgb(43, 43, 75);
+    font-weight: 500;
+    border: none;
+}
+
+#USA-btn{
+    background-color: rgb(92, 240, 151);
+    color:rgb(47, 70, 55);
+    font-weight: 500;
+    border: none;
+}
+
+.right, .top{
+    float:right;
+}
+
+.grd-col{
+    margin:1em;
+}
+
+
+  /* on card styling stars here */
+
+   .container{
+    
+    position: absolute;
+    margin:0.6em;
+    color:white;
+    top:47%;
+  }
+
+  .container h3{
+    font-size: 1.2rem;
+    font-weight: 750;
+    
+  }
+
+  .car-top{
+    position: absolute;
+    left: 3%;
+    top:3%;
+    
+  }
+  .star{
+    position: absolute;
+    bottom: 93%;
+    left: 87%;
+   
+  }
+
+  .days{
+    position: absolute;
+    color: white;
+    font-size:0.6rem;
+    top:55%;
+    left:80%;
+    font-weight: 500;
+   
+  }
+ 
